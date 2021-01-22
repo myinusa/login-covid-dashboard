@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navigate } from 'react-router-dom';
-import DashboardLayout from 'src/layouts/DashboardLayout';
-import MainLayout from 'src/layouts/MainLayout';
+import DashboardLayout from 'src/components/layouts/DashboardLayout';
+import MainLayout from 'src/components/layouts/MainLayout';
 import DashboardView from 'src/views/reports/DashboardView';
 import NotFoundView from 'src/views/errors/NotFoundView';
 
